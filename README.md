@@ -5,6 +5,8 @@ This is a solution to the
 Frontend Mentor challenges help you improve your coding skills by building
 realistic projects.
 
+![project image](src/assets/design/desktop-design.jpg)
+
 ### The challenge
 
 Users should be able to:
@@ -18,8 +20,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+  [Add solution URL here](https://github.com/jeff-mz/react-product-page)
+- Live Site URL:
+  [Add live site URL here](https://dreamy-bombolone-d0f6e2.netlify.app/)
 
 ### Built with
 
@@ -29,7 +33,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Bootstrap](https://styled-components.com/) - For styles
+- [Bootstrap](https://getbootstrap.com/) - For styles
 
 ### What I learned
 
